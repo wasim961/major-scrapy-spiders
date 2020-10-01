@@ -1,4 +1,4 @@
-Major Scrapy Spiders
+Major Scrapy Spiders An Amazing Project................... 
 ====================
 Scrapy spiders of major websites. Play Store, Facebook, Instagram, Ebay, YTS Movies, Amazon
 
